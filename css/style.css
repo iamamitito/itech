@@ -1,0 +1,116 @@
+
+.card-phones img {
+    height: 290px;
+}
+
+.card-consolas {
+    height: 280px;
+}
+
+.top-navbar, .footer {
+    background-color: rgb(0, 0, 0);
+}
+nav {
+    font-family: 'Bebas Neue', cursive;
+    font-size:  1.5rem;
+}
+nav .dropdown-menu {
+    font-size:  1.3rem;
+}
+.carousel-item {
+    height: 500px;
+}
+.carousel-item img {
+    height: 500px;
+}
+nav ul {
+    list-style: none;
+    display: flex;
+}
+
+.form {
+    margin: auto;
+    width: fit-content;
+    display: block;
+}
+.big-input-bar {
+    background: #fff;
+    display: flex;
+    box-shadow: none;
+    border-radius: 24px;
+    height: 44px;
+    width: 500px;
+}
+
+.input-bar {
+    flex: 1;
+    display: flex;
+    padding: 5px 8px 0 16px;
+}
+.input {
+    background-color: transparent;
+    border: none;
+    margin: 0;
+    padding: 0;
+    color: rgba(0,0,0,.87);
+    word-wrap: break-word;
+    outline: none;
+    display: flex;
+    flex: 100%;
+    -webkit-tap-highlight-color: transparent;
+    height: 34px;
+    font-size: 16px;
+    width: 300px;
+}
+.search-icon {
+    margin-top: 5px;
+    margin-left:15px;
+    height: 20px;
+    width: 20px;
+    display: inline-block;
+    fill: currentColor;
+    color: rgb(5, 185, 35);
+}
+
+.footer {
+    font-size: 13px;
+    background-color: rgb(20, 20, 20);
+    color: rgb(156, 156, 156);
+}
+
+@media (max-width: 770px) {
+    .carousel-item {
+        height: 60vh;
+    }
+    .carousel-item img {
+        height: 210px;
+    }
+    .navbar-search {
+        display: none;
+    }
+    .logos img {
+        height: 50px;
+    }
+    .topnav-item {
+        display: none;
+    }
+    nav img, nav i {
+        height: 20px;
+    }
+    .carousel-control-prev, .carousel-control-next, .carousel-item{
+        height:150px;
+    }
+    .modal-body img {
+        width: 260px;
+        height: 260px;
+    }
+}
+@media (min-width: 979px) {
+    .dropdown:hover > .dropdown-menu {
+        display: block;
+    }
+    .dropdown > .dropdown-toggle:active {
+        pointer-events: none;
+    }
+
+}
