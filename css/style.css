@@ -29,6 +29,9 @@ nav ul {
     list-style: none;
     display: flex;
 }
+nav a {
+    outline: none;
+}
 
 .form {
     margin: auto;
