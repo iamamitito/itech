@@ -10,29 +10,22 @@ Nombre del usuario: Sebastián González
 
 ## DESCRIPCIÓN DEL SISTEMA DEL PROYECTO
 
-```
 La empresa Itech es una plataforma que satisface las necesidades tecnológicas de entretención y recreación de sus usuarios brindando una amplia gama de productos de consumo. El portal es un canal que permite al usuario acceder a dichos productos por medio de catálogos virtuales.
 
-```
+
 
 ## OBJETIVO 
 
-```
 Nuestro principal objetivo es que el usuario sienta que cuenta con Itech, quien se convertirá en su experiencia virtual en una experiencia real. Al navegar y seleccionar los productos de interés y ponerse en contacto con nosotros.
-```
 
 ## MISIÓN
 
-```
 Itech es una organización que busca satisfacer las necesidades de compra de los chilenos, a través de las últimas innovaciones tecnológicas de excelencia, originalidad y calidad. Nuestro modelo de negocio se basa en procesos de comercio electrónico, seguros y eficientes. Contamos con un equipo de trabajo altamente capacitado, con la mejor aptitud de servicio, sentido de la responsabilidad y ética, que busca dar un buen servicio y de calidad en el mejor tiempo posible. La innovación constante nos permite llegar al cliente con eficiencia.
-```
 
 ## VISIÓN
 
-```
 La visión de Itech es ser una de las empresas líder en el mercado tecnológico online. Vamos a desarrollar un canal fuerte de ventas por medio de nuestra tienda, con los más recientes productos, en la que encontrarás nuestro apoyo y la solución, de una manera fácil, cómoda y segura, buscando constantemente nuevas alternativas, basados en el conocimiento profundo de las necesidades de nuestros usuarios.
 
-```
 
 ## VALORES 
 
@@ -53,10 +46,8 @@ Venta de consolas de videojuegos.
 
 ## CLIENTES
 
-```
 Itech tiene como objetivo captar la población en general. Cabe destacar que el segmento más representativo son los adolescente y adultos jóvenes, quienes en los últimos años ha presentado un crecimiento considerable en el uso de las tecnologías en lo que a entretención se refiere.
 
-```
 
 ##  LISTADO DE NECESIDADES Y CARACTERÍSTICAS DE DISEÑO DE INTERFAZ
 
