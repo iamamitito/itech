@@ -30,7 +30,7 @@ nav ul {
     display: flex;
 }
 nav a:focus {
-    outline: none;
+    outline: 0;
 }
 
 .form {
