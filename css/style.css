@@ -29,7 +29,7 @@ nav ul {
     list-style: none;
     display: flex;
 }
-nav a {
+nav a:focus {
     outline: none;
 }
 
