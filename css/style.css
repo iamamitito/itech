@@ -1,4 +1,6 @@
-
+.card img {
+    cursor: pointer;
+}
 .card-phones img {
     height: 290px;
 }
